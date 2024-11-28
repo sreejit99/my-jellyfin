@@ -1,1 +1,1 @@
-#Jellyfin config directory
+## Jellyfin config directory
