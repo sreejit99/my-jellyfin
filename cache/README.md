@@ -1,1 +1,1 @@
-##Jellyfin Cache directory
+#Jellyfin Cache directory
